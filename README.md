@@ -1,2 +1,2 @@
 # Singleton
-Patrón Singleton
+Esto es un ejemplo del patrón Singleton en Java.__
